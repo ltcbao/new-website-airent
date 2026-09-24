@@ -1,0 +1,17 @@
+{
+  "name": "vanphat86-website",
+  "version": "1.0.0",
+  "description": "Vạn Phát 86 - Nền tảng cho thuê điện thoại công nghệ cao cấp hàng đầu Việt Nam",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "vanphat86",
+    "phone-rental",
+    "html-css-js"
+  ],
+  "author": "Vạn Phát 86",
+  "license": "MIT"
+}
